@@ -1,2 +1,2 @@
-# DogShowApplication
-A Dog Show Java application that utilizes the concepts of Spring boot
+# Library Managment System
+A project in ASP.NET using C# that is capable of managing a library management system.
